@@ -10,3 +10,10 @@ The dataset contains customer-level information for a span of four consecutive m
 The business objective is to predict the churn in the last (i.e. the ninth) month using the data (features) from the first three months.
 
 This is a classification problem, where we need to predict whether the customers is about to churn or not. We have carried out Baseline Logistic Regression, then Logistic Regression with PCA, PCA + Random Forest, PCA + XGBoost.
+## Approach to solve this business problem
+- Step 1 : Introduction -  Business Description, Problem Statement and Objective of the Project
+- Step 2 : Data Understanding and Data Preparation
+- Step 3 : Exploratory data analysis (EDA)
+- Step 4 : Training the model
+- Step 5 : Model Prediction and Evaluation
+- Step 6 : Recommandations
